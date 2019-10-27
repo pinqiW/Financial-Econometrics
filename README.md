@@ -1,6 +1,6 @@
 # Financial-Econometrics
-code from my Financial econometrics course homework
-1.data.xlsx contains data on daily re- turns on different indexes 
+Some Codes from my Financial econometrics course homework that I wrote.
+data.xlsx contains data on daily returns on different indexes 
 (all series with JPM in the name are bond indexes, all series with MSCI in the name are stock indexes and then we have the dol- lar daily returns on yen, GB pound and Euro). Pick a series for bond, stock and exchange rate returns and compute the correlogram and the Jarque Bera tests for the series and the squared of the series. Comment the results.
 2.Compute the IID tests for the US bond , US stock and euro series 
 estimate a ARCH(1) model for US bond and US stock of the kind:
